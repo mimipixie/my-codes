@@ -1,0 +1,11 @@
+new mem hole 'y' then account create
+		first e usernme and password type, then function call (check korbe j new 'username' already username.txt te ache kina,
+														thakle invalid username ar na thakle valid so account create hobe)
+													
+		account create hole login info chabe and blah blah
+
+new mem na hole('n') login info chabe
+		first e usernme and password type, then function call (check korbe j new 'username' already username.txt te ache kina,
+														thakle username exists, so password check korbe . password correct hole login hobe noyto hobe na,
+														ar username match na korle user does not exist. so abar 1st theke ques korbe)
+														
